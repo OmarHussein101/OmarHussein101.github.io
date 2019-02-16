@@ -11,12 +11,12 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: _site name_
-description: _description_
+title: Omar Hussein: Front-End Engineer
+description: This website is a porftolio and a showcase of my abilities as a Front-End Web Developer.
 owner:
-  name: _your name_ # or company name
+  name: Omar Hussein # or company name
   url: "http://example.com" # your URL
-first_published: 2010 # if migrating another site, the year of your first publish
+first_published: 2019 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "http://example.com" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,7 +28,7 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_  
+  title: Hello and Welcome!
   text: _Your detailed greeting text_
 # - displayed at the bottom
 closing-head: _Your closing_
