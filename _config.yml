@@ -11,11 +11,11 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: Omar Hussein Front-End Engineer
-description: This website is a porftolio and a showcase of my abilities as a Front-End Web Developer.
+title: Omar Hussein Front-End designer
+description: Iam passionate about interactive media, and in an age of digital I believe bringing design to life with code is essential. So, I specialise in a multi-disciplined approach to my work incorporating design and development.
 owner:
   name: Omar Hussein # or company name
-  url: "http://example.com" # your URL
+  url: "http://arkadianriver.github.io/spectral/" # your URL
 first_published: 2019 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "http://example.com" # the base hostname & protocol for this site
@@ -28,20 +28,19 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Hello and Welcome!
-  text: _Your detailed greeting text_
+  title:HELLO, I'M Omar. NICE TO MEET YOU
+  text: I'm Omar Hussein This is my online portfolio I'm Currently living in cairo, Egypt I'm A web Designer and  iam passionate with coding
 # - displayed at the bottom
-closing-head: _Your closing_
-closing-para: _Your detailed closing_
+closing-head: A full-time freelancer, I’m 22 and currently based in Cairo in Egypt
+closing-para: I studied at the University of Ain Shams
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/_username_
-  github: https://github.com/_username_
-  linkedin-square: https://linkedin.com/in/_username_
-  facebook-official: https://facebook.com/_username_
-  google-plus-square: https://plus.google.com/u/0/+_username_
-  email: /contact/ # you can configure and use this contact page or use your email addy
+  twitter: https://twitter.com/Omar01961810
+  github: https://github.com/OmarHussein101
+  linkedin-square: https://www.linkedin.com/in/omar-hussein-14988017b/
+  facebook-official: https://www.facebook.com/omar.saber.549
+  email: omar.hussein337@gmail.com
   #flickr:
   #instagram:
   #youtube-square:
